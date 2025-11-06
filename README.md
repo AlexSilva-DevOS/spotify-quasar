@@ -8,14 +8,14 @@ npm run dev
 
 # Librerie installate
 
-axios
-pinia
-uniqolor
-vue-material-design-icons
+- axios
+- pinia
+- uniqolor
+- vue-material-design-icons
 
 # Progesso dello Svilluppo
 
 ## Componenti
 
-CategorySelect.vue
-HomeCard.vue
+- CategorySelect.vue
+- HomeCard.vue
