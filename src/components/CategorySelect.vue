@@ -1,11 +1,14 @@
 <template>
+  <!-- Componente per la selezione di una categoria con una card colorata e un'immagine -->
   <q-card flat bordered class="category-card cursor-pointer rounded-borders relative overflow-hidden"
     :style="{ backgroundColor: randColor.color }" @Click="goToLibrary">
 
+    <!-- Mostra il nome della categoria nella parte superiore della card -->
     <q-card-selection class="text-white text-h6 q-pt-md q-pb-md z-top">
       {{ category }}
     </q-card-selection>
 
+    <!-- Mostra l'immagine della categoria in basso a destra della card -->
     <q-img :src="image" fit="cover" class="category-image" />
   </q-card>
 </template>
