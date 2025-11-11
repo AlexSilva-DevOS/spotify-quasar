@@ -15,6 +15,10 @@ npm run dev
 
 # Progesso dello Svilluppo
 
+## Pagine
+
+- SearchView.vue - path: /search
+
 ## Componenti
 
 - CategorySelect.vue
