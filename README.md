@@ -23,6 +23,9 @@ npm run dev
 ## Pagine
 
 - SearchView.vue - path: /search
+- IndexPage.vue - path: /
+- LibraryView.vue - path: /library
+- ErrotNotFound.vue - path: error
 
 ## Componenti
 
