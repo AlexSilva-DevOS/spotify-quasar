@@ -2,6 +2,11 @@
 
 Spotify Demo with Quasar
 
+# Configurazione Files
+
+- Nella cartella /public/songs aggiungere i file .mp3 delle canzoni.
+- Modificare il file artist.json inserendo i propri dati.
+
 # Comando per avviare l'applicazione
 
 npm run dev
@@ -25,6 +30,8 @@ npm run dev
 - HomeCard.vue
 - MusicPlayer.vue
 - MusicPlayerVolume.vue
+- MenuItem.vue
+- SongRow.vue
 
 ## Decoder e API Itunes
 
